@@ -3,7 +3,7 @@
 
 Practices and small projects in the Analyzing Data with Python course offered by IBM on Couresara.
 
-After this course, I learned how to:
+In this course, I learned how to:
 1. Clean the data.
 2. Do exploratory analysis.
 3. Perform statistical analysis.
