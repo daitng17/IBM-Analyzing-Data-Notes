@@ -1,5 +1,13 @@
 # IBM-Analyzing-Data-Notes
+### Summer 2020
 
-This is a repo to save my notes for Python Data Science Program offered by IBM.
+Practices and small projects in the Analyzing Data with Python course offered by IBM on Couresara.
 
-Analyzing Data with Python
+After this course, I learned how to:
+1. Clean the data.
+2. Do exploratory analysis.
+3. Perform statistical analysis.
+4. Draw simple charts for visual analysis.
+5. Create basic machine learning models.
+
+
